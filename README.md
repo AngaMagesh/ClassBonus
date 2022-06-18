@@ -1,2 +1,1 @@
-# ClassBonus
-bonus
+# solar_power
